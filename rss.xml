@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Simba Zihove]]></title>
         <description><![CDATA[Simba Zihove]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/simba-zihove/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 16:54:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:12:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/simba-zihove/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Entrepreneur Profile: Simba Zihove | TIZWE]]></title>
+            <description><![CDATA[<article><h1>Entrepreneur Profile: Simba Zihove | TIZWE</h1><p>Simba Zihove; the entrepreneur, philanthropist, writer, author and motivational speaker... Our latest entrepreneur profile sees us interviewing the 21-year-old Dallas-based; Founder and CEO of CrescoCARE Foundation, Co-Founder of Cresco Investments & Asset Management and author of the novel "The End of the Wandering Generation" .</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d8aa64ece9a6265c32b46c13df51a32036147ee.jpg"></article>]]></description>
+            <link>http://www.tizwe.com/2014/12/entrepreneur-profile-simba-zihove/</link>
+            <guid isPermaLink="false">e183eeb0-5a01-4d59-90e6-02014acc7d8a</guid>
+            <pubDate>Mon, 25 Apr 2016 18:12:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be9c3d91-cacd-42bd-a42e-8c8a76481dfd.jpg">]]></description>
-            <link>undefinedeac3790b-b995-4729-9b83-ecb2e167240a/index.html</link>
+            <link>https://thegrid.ai/simba-zihove/eac3790b-b995-4729-9b83-ecb2e167240a/index.html</link>
             <guid isPermaLink="false">eac3790b-b995-4729-9b83-ecb2e167240a</guid>
             <pubDate>Mon, 25 Apr 2016 16:54:22 GMT</pubDate>
         </item>
