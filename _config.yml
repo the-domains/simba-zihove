@@ -1,0 +1,28 @@
+name: Simba Zihove
+favicon: null
+layout_spectrum: 0.14229493867605925
+typography_spectrum: 0.6341596969868988
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.858728424180299
+  lightness: 0.8757174571510404
+  saturation: 0.4166994350962341
+  rhythmicContrast: 0.1077480255626142
+purpose: []
